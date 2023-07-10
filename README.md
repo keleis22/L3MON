@@ -1,4 +1,4 @@
-# Deleted by owner it may not work, Get Updates on <a href="https://t.me/efxtv">TELEGRAM (only for education)</a>.
+# Deleted by owner it may not work, Get Updates 
 
 A cloud-based remote Android management suite, powered by NodeJS 
 </p>
@@ -8,7 +8,7 @@ A cloud-based remote Android management suite, powered by NodeJS
 
 <p>The only way to help us is to visit our YouTube channel and subscribe to our channel, leave your comments on our videos, and follow us on GitHub. Looking forward to your cooperation.</p>
 
-## Similar tool with modification supported by EFX Tv alongside L3MON <a href="https://github.com/efxtv/EMSF">EMSF Tool by EFX Tv</a>
+## Similar tool with modification supported by EFX Tv alongside L3MON 
 - L3MON 
 - HaxRAT
 - LizRAT
@@ -124,6 +124,3 @@ L3MON Builds off and utilizes several opensource software, Without these, L3MON 
 <b>D3VL Provides no warranty with this software and will not be responsible for any direct or indirect damage caused due to the usage of this tool.<br>
 L3MON is built for both Educational and Internal use ONLY.</b>
 
-<br>
-<p align="center">Made with ❤️ By <a href="//d3vl.com">D3VL</a></p>
-<p align="center" style="font-size: 8px">v1.1.2 <a href="https://github.com/D3VL/L3MON">Credit!</a></p>
